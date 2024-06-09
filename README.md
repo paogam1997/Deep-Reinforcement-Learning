@@ -10,3 +10,6 @@
 - FadingFilter_usage: Implementation of many fading filters and Kalman filter to smooth the imu data.
 
  - Reward: File to design the reward function. 
+
+############################################################################
+In the repository FunzioniUtili you find all the Matlab functions needed to run the previous files.
